@@ -14,7 +14,7 @@
 <img src="./resultado.jpg" alt="resultado" width="80%">
 
 > MySql :
-<img src="./2° Curso/modelagem logica/modelagem logica foto.jpg" alt="resultado" width="80%">
+<img src="./modelagem logica/modelagem logica foto.jpg" alt="resultado" width="80%">
 
 ## Download
 
