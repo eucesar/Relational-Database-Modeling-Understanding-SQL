@@ -11,7 +11,7 @@
 <br>
 
 > Objective :
-<img src="./2° Curso/modelagem fisica/modelagem-fisica.jpg" alt="resultado" width="80%">
+<img src="./resultado.jpg" alt="resultado" width="80%">
 
 > MySql :
 <img src="./2° Curso/modelagem logica/modelagem logica foto.jpg" alt="resultado" width="80%">
