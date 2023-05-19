@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my Repositories 🤝</h1>
 <p>
-  <img align="center" alt="BrModel" height="50" width="50" src="./brmodel.png">
+  <img align="center" alt="mysql" height="50" width="50" src="./mysql.png">
   <img align="center" alt="SQL-Power-Architect" height="50" width="50" src="./SQL-Power-Architect.png">
   <br>
 </p>
