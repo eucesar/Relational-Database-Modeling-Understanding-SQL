@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my Repositories 🤝</h1>
 <p>
   <img align="center" alt="mysql" height="100" width="100" src="./mysql.png">
-  <img align="center" alt="UniServerZ" height="50" width="50" src="./UniServerZ.png">
+  <img align="center" alt="UniServerZ" height="100" width="100" src="./UniServerZ.png">
   <br>
 </p>
 
