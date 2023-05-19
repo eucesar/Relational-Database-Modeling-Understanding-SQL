@@ -5,7 +5,7 @@
   <br>
 </p>
 
-> 🌱👨‍💻 - I learned to differentiate the types of database modeling, got to know logical and physical data modeling, exercised the use of Power Architect, created column tables and cardinality representations in the physical model, produced the representation of primary and foreign keys, developed the modeling process, from business modeling to the end of the project. I created this project using the Alura course.
+> 🌱👨‍💻 - I learned SQL for relational model, installed MySQL, created schemas/tables, added constraints/referential integrity, defined primary/foreign keys, insert data in different ways, used WHERE for filters, deleted/updated information, applied aggregate functions and joined tables with INNER JOIN, LEFT JOIN and RIGHT JOIN - all with MySQL. I created this project using the Alura course.
 
 
 <br>
